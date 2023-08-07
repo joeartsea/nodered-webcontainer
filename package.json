@@ -5,7 +5,8 @@
         "nrlint": "*",
         "jszip": "*",       
         "js-beautify": "*",
-        "node-red-contrib-web-worldmap": "*"
+        "node-red-contrib-web-worldmap": "*",
+        "node-red-contrib-etherscan": "*"
     },
     "scripts": {
         "start": "node-red -D editorTheme.tours=false"
